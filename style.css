@@ -1,0 +1,64 @@
+body{
+	margin: 0;
+	font-family: arial;
+}
+
+.bg-img{
+	background-image: url("img/background.jpg");
+ 	background-color: #cccccc;
+ 	padding: 20px 0 50px;
+ 	background-size: cover;
+}
+.container{
+	background-color: rgb(0 0 0 / 40%);
+	border-radius: 10px;
+	padding: 50px;
+	margin: 0px auto;
+	max-width: 700px;
+
+}
+.txt-center{
+	text-align: center;
+}
+.img-logo{
+	width: 200px
+}
+.taking{
+	color: #00dd02;
+	margin: 0;
+}
+.button-section{
+	background-color: #00dd02;
+	padding: 10px;
+}
+.bikerBlock{
+	margin-top: 20px;
+	color: #fff;
+}
+.bikerBlock label{
+	font-weight: bold;
+}
+.address{
+	margin: 5px 0;
+	font-size: 12px;
+}
+.status{
+	margin: 0;
+	font-size: 12px;
+}
+.charger{
+	height: 20px;
+    border-radius: 5px;
+}
+.low{
+	width: 180px;
+    background-color: #cd5c5c;
+}
+.medium{
+	width: 230px;
+    background-color: #ffa500;
+}
+.full{
+	width: 400px;
+    background-color: #00dd02;
+}
